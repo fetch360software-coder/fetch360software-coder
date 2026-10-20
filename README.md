@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:A855F7,50:7C3AED,100:4C1D95&height=240&section=header&text=Raufwithcoder&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20of%20Fetch360%20Solutions%20%7C%20ViralGo%20%7C%20Clip10x&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:A855F7,50:7C3AED,100:4C1D95&height=240&section=header&text=Raufwithcoder&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20of%20Clip10xs%20%7C%20ViralGo%20%7C%20fetch360solutionx&descAlignY=60&descSize=18" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=work+with+%40+Fetch360+Solutions+%F0%9F%9A%80;Founder+of+ViralGo+%26+Clip10x;Mobile+App+Developer+%F0%9F%93%B1;Full+Stack+%7C+AI+Automation+%F0%9F%A4%96;LLM+%26+AI+Agents+Builder+%F0%9F%A7%A0;Video+Clipping+%26+Content+Tools+%F0%9F%8E%AC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=Work+with+%40+Fetch360+Solutions+%F0%9F%9A%80;Founder+of+ViralGo+%26+Clip10x;Mobile+App+Developer+%F0%9F%93%B1;Full+Stack+%7C+AI+Automation+%F0%9F%A4%96;LLM+%26+AI+Agents+Builder+%F0%9F%A7%A0;Video+Clipping+%26+Content+Tools+%F0%9F%8E%AC" alt="Typing SVG" />
   </a>
 </div>
 
