@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:A855F7,50:7C3AED,100:4C1D95&height=240&section=header&text=Raufwithcoder&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20of%20Clip10xs%20%7C%20ViralGo%20%7C%20fetch360solutionx&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:A855F7,50:7C3AED,100:4C1D95&height=240&section=header&text=Raufwithcoder&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20of%20Clip10x%20%7C%20ViralGo%20%7C%20fetch360solutions&descAlignY=60&descSize=18" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
