@@ -20,7 +20,7 @@
 
 I'm **Rauf** — a developer and founder who loves turning ideas into real products.
 
-- 🏢 **Founder of [Fetch360 Solutions](https://fetch360solutions.com/)** — software, apps & AI automation company
+- 🏢 **Work with [Fetch360 Solutions](https://fetch360solutions.com/)** — software, apps & AI automation company
 - 🚀 **Founder of ViralGo** — tool for creating viral content
 - 🎬 **Founder of Clip10x** — AI video clipping platform
 - 📱 Mobile App Developer (Android / iOS / Cross-platform)
