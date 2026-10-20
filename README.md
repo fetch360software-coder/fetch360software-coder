@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=Founder+%40+Fetch360+Solutions+%F0%9F%9A%80;Founder+of+ViralGo+%26+Clip10x;Mobile+App+Developer+%F0%9F%93%B1;Full+Stack+%7C+AI+Automation+%F0%9F%A4%96;LLM+%26+AI+Agents+Builder+%F0%9F%A7%A0;Video+Clipping+%26+Content+Tools+%F0%9F%8E%AC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=workwith+%40+Fetch360+Solutions+%F0%9F%9A%80;Founder+of+ViralGo+%26+Clip10x;Mobile+App+Developer+%F0%9F%93%B1;Full+Stack+%7C+AI+Automation+%F0%9F%A4%96;LLM+%26+AI+Agents+Builder+%F0%9F%A7%A0;Video+Clipping+%26+Content+Tools+%F0%9F%8E%AC" alt="Typing SVG" />
   </a>
 </div>
 
